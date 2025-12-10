@@ -27,7 +27,7 @@ This project demonstrates how data analytics can support smarter, more efficient
 This experience strengthened my Python-based analytical skills and deepened my interest in descriptive and predictive analytics for process optimization, especially in industrial domains like iron ore mining.
 
 iron-mining-analysis/
-│── data/                 # Raw & cleaned datasets
+│── data/                 # Kaggle datasets
 │── notebooks/            # Python analysis notebooks
 │── visuals/              # Charts, plots, and outputs
 │── README.md             # Project documentation
@@ -35,7 +35,7 @@ iron-mining-analysis/
 📎 Files Included
 
 iron_mining_analysis.ipynb – Data cleaning, EDA, and insights
-raw_data.csv – Original dataset
+raw_data.csv – Original dataset on Kaggle.
 plots/ – Visualizations generated during analysis
 
 🔗 LinkedIn Article (Optional)
