@@ -39,7 +39,7 @@ raw_data.csv – Original dataset
 plots/ – Visualizations generated during analysis
 
 🔗 LinkedIn Article 
-
 👉 LinkedIn Article Title : https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e
 
-DeepNote Link: https://deepnote.com/workspace/SRPWorkplace-548fb9cc-1231-4ca3-8596-b02cd0a82a31/project/IronMiningAnalysis-a1096132-6631-4bf6-b18c-76700fda94f6/notebook/IronOreMining-cf40ad5f9c884ed09a7c2ba4e8589c41?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=a1096132-6631-4bf6-b18c-76700fda94f6
+🔗 Python Code Link 
+👉 DeepNote Link: https://deepnote.com/workspace/SRPWorkplace-548fb9cc-1231-4ca3-8596-b02cd0a82a31/project/IronMiningAnalysis-a1096132-6631-4bf6-b18c-76700fda94f6/notebook/IronOreMining-cf40ad5f9c884ed09a7c2ba4e8589c41?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=a1096132-6631-4bf6-b18c-76700fda94f6
