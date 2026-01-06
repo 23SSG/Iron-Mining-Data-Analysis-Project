@@ -38,7 +38,7 @@ iron_mining_analysis.ipynb – Data cleaning, EDA, and insights
 raw_data.csv – Original dataset
 plots/ – Visualizations generated during analysis
 
-🔗 LinkedIn Article (Optional)
+🔗 LinkedIn Article 
 
 👉 LinkedIn Article Title : https://www.linkedin.com/pulse/unearthing-insights-data-driven-analysis-iron-s-pradhan-gir7e
 
